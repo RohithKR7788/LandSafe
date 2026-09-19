@@ -132,7 +132,7 @@ department guidelines.
 
 ## 👤 Author
 
-Built by [Your Name] — B.Tech AI & ML, SCT College of Engineering, Thiruvananthapuram.
+Built by Rohith K Raj — B.Tech AI & ML, SCT College of Engineering, Thiruvananthapuram.
 
 ---
 
